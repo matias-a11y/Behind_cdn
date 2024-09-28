@@ -21,6 +21,10 @@
 需要填写dns解析网站 (https://viewdns.info/api/) 的api和fofa的email和key参数。
 
 ![config](https://github.com/matias-a11y/Behind_cdn/blob/master/img/config.png)
+安装依赖
+```
+pip install -r requirements.txt
+```
 
 ##  示例
 
