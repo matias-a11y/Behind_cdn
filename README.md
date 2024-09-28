@@ -14,13 +14,13 @@
  - 输入的目标必须以`http/https`开头
 ## 项目架构
 
-![项目架构](C:\Users\yu\Desktop\Behind_cdn-master\img\项目架构.png)
+![项目架构](https://github.com/matias-a11y/Behind_cdn/blob/master/img/%E9%A1%B9%E7%9B%AE%E6%9E%B6%E6%9E%84.png)
 
 ## 准备
 
-需要填写dns解析网站(https://viewdns.info/api/)的api和fofa的email和key参数。
+需要填写dns解析网站 (https://viewdns.info/api/) 的api和fofa的email和key参数。
 
-![config](C:\Users\yu\Desktop\Behind_cdn-master\img\config.png)
+![config](https://github.com/matias-a11y/Behind_cdn/blob/master/img/config.png)
 
 ##  示例
 
