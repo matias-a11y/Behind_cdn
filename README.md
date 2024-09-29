@@ -10,7 +10,6 @@
  - 使用shmilylty的[oneforall](https://github.com/shmilylty/OneForAll)进行子域名收集
  - 对输入的域名进行fofa查询和dns历史查询
  - 根据HTTP响应包长度在扫出的地址范围内寻找真实IP
- - requirements.txt可能不全，缺什么需要手动安装一下
  - 输入的目标必须以`http/https`开头
 ## 项目架构
 
